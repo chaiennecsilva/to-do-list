@@ -1,0 +1,41 @@
+html ,  body {
+    largura :  50 % ;
+    margem :  0 automático;
+    família da fonte : Arial , Helvetica , sans-serif;
+}
+
+. container {
+    largura :  360 px ;
+}
+
+# form {
+    display : flex;
+}
+
+# input {
+    largura :  300 px ;
+    altura :  46 px ;
+    largura da borda :  0 ;
+    borda :  preto sólido de 1 px ;
+    esboço : nenhum;
+    tamanho da fonte :  25 px ;
+    alinhamento vertical : meio;
+}
+
+# add {
+    altura :  50 px ;
+    largura :  50 px ;
+    borda :  preto sólido de 1 px ;
+    alinhamento vertical : meio;
+    tamanho da fonte :  30 px ;
+}
+
+. estilo de texto {
+    margem :  0 ;
+    cursor : ponteiro;
+    tamanho da fonte :  20 px ;
+}
+
+. tarefas {
+    margem superior :  25 px ;
+}
